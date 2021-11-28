@@ -1,5 +1,5 @@
 'use strict';
-//test git
+//test github
 require('dotenv').config();
 const express = require('express');
 const myDB = require('./connection');
